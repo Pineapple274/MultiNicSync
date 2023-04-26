@@ -1,0 +1,3 @@
+[submodule "PicoScenes-MATLAB-Toolbox-Core"]
+	path = PicoScenes-MATLAB-Toolbox-Core
+	url = https://gitlab.com/wifisensing/PicoScenes-MATLAB-Toolbox-Core.git
